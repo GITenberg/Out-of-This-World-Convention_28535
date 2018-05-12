@@ -1,0 +1,30 @@
+_repo: Out-of-This-World-Convention_28535
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ackerman, Forrest J.
+    alias: Ackerman, Forrest James
+    birthdate: 1916
+    deathdate: 2008
+    gutenberg_agent_id: '33388'
+    url: http://www.gutenberg.org/2009/agents/33388
+    wikipedia: http://en.wikipedia.org/wiki/Forrest_J_Ackerman
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Science fiction -- Congresses'
+- !lcsh 'World Science Fiction Convention (14th : 1956 : New York, N.Y.)'
+title: Out of This World Convention
+url: http://www.gutenberg.org/ebooks/28535
